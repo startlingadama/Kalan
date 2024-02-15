@@ -1,4 +1,4 @@
-# YoanDev-Starter-Pack-Projet
+# Starter-Pack-Projet
 
 Starter Pack pour organiser et gérer un projet avec GitLab 🦊
 
